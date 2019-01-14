@@ -1,0 +1,43 @@
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\bin\Debug\FSpam.exe.config
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\bin\Debug\FSpam.exe
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\bin\Debug\FSpam.pdb
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\obj\Debug\FSpam.csprojAssemblyReference.cache
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\obj\Debug\FSpam.Form1.resources
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\obj\Debug\FSpam.Properties.Resources.resources
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.GenerateResource.cache
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.CoreCompileInputs.cache
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\obj\Debug\FSpam.exe
+C:\Users\IvicaCelig\Documents\Visual Studio 2017\FSpam\FSpam\FSpam\obj\Debug\FSpam.pdb
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.exe.config
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.exe
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.pdb
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.FrmMain.resources
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.Properties.Resources.resources
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.GenerateResource.cache
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.CoreCompileInputs.cache
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.exe
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.pdb
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.FrmMails.resources
+C:\Users\dinkl\Desktop\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csprojAssemblyReference.cache
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.exe
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.exe.config
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.FrmMails.resources
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.FrmMain.resources
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.Properties.Resources.resources
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.GenerateResource.cache
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.CoreCompileInputs.cache
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.exe
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.pdb
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.pdb
+E:\Verzija2\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csprojAssemblyReference.cache
+E:\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.exe
+E:\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.exe.config
+E:\INTS_FSpam\FSpam\FSpam\bin\Debug\FSpam.pdb
+E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csprojAssemblyReference.cache
+E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.FrmMails.resources
+E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.FrmMain.resources
+E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.Properties.Resources.resources
+E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.GenerateResource.cache
+E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.CoreCompileInputs.cache
+E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.exe
+E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.pdb
