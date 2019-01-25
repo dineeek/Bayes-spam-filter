@@ -41,3 +41,14 @@ E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.GenerateResource.cache
 E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.csproj.CoreCompileInputs.cache
 E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.exe
 E:\INTS_FSpam\FSpam\FSpam\obj\Debug\FSpam.pdb
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\bin\Debug\FSpam.exe.config
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\bin\Debug\FSpam.exe
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\bin\Debug\FSpam.pdb
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\obj\Debug\FSpam.csprojAssemblyReference.cache
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\obj\Debug\FSpam.FrmMails.resources
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\obj\Debug\FSpam.FrmMain.resources
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\obj\Debug\FSpam.Properties.Resources.resources
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\obj\Debug\FSpam.csproj.GenerateResource.cache
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\obj\Debug\FSpam.csproj.CoreCompileInputs.cache
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\obj\Debug\FSpam.exe
+C:\Users\dinkl\Desktop\BayesSpamFilter\FSpam\FSpam\obj\Debug\FSpam.pdb
